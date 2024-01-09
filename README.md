@@ -1,2 +1,1 @@
-# Coding-Raja-Technologies-Internship-
-Web Development Internship-Resume Builder
+Resume Builder Application is built by using HTML,CSS,JS.
